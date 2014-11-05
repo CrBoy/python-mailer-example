@@ -1,4 +1,6 @@
 
 mandrill = {
+	'username': '',
+	'password': ''
 }
 
